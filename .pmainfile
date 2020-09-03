@@ -1,0 +1,1 @@
+{"mainfile":"Challenge.py","compilemenucommand":"python3 Challenge.py","runmenucommand":"python3 Challenge.py","testmenucommand":"> .testcaseop && :> .testcaseop2 && sh ./testpy.sh > ./.testcaseop","showterminal":true,"showQuestionInPopup":true}
